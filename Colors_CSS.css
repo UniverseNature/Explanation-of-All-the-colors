@@ -5,25 +5,23 @@
   display:inline;
   right:10px;;
   top:540px;}
-#heading-1{text-align:center;}
+.headings{text-align:center;}
+
+.colored-text-green{color:lime;}
+
+.colored-text-red{color:crimson;}
+
+.colored-text-blue{color:blue;}
+
+.colored-text-purple{color:purple;}
+
+.colored-text-cyan{color:cyan;}
 
 .colored-text-para-1{display:inline;}
 
-#red-para-1{color:crimson;}
+.paragraphs{margin:15px;}
 
-#green-para-1{color:lime;}
-
-#blu-para-1{color:blue;}
-
-#purple-para-1{color:violet;}
-
-#cyan-para-1{color:cyan;}
-
-#heading-2{text-align:center;}
-
-#para-2{margin-left:15px;}
-
-h2 {
+#heading-2 {
   padding-top: 50px;
 }
 
