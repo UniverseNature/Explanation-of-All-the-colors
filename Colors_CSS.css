@@ -1,0 +1,37 @@
+#image-sprectrum{width:500px;
+  width:500px;}
+#img-1-label{position:absolute;
+  display:inline;
+  right:10px;;
+  top:540px;}
+#heading-1{text-align:center;}
+.colored-text-para-1{display:inline;}
+#red-para-1{color:crimson;}
+#green-para-1{color:lime;}
+#blu-para-1{color:blue;}
+#purple-para-1{color:violet;}
+#cyan-para-1{color:cyan;}
+
+
+h2 {
+  padding-top: 70px;
+}
+
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+
+.navbar-brand {
+  font-size: 2rem;
+  font-style: oblique;
+  color: white !important;
+}
+
+.nav-link {
+  color: white;
+}
+.navbar-toggler-icon{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
