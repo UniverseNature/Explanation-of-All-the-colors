@@ -19,7 +19,8 @@
 
 .colored-text-para-1{display:inline;}
 
-.paragraphs{margin:15px;}
+.paragraphs{margin:15px;
+text-align:center;}
 
 #heading-2 {
   padding-top: 20px;
