@@ -1,21 +1,24 @@
-
-#image-sprectrum{width:500px;
-  width:500px;}
+#image-sprectrum{float:right;
+  width:500px;
+  height:500px;}
   
 #img-1-label{position:absolute;
   right:10px;
   top:540px;}
 
+#img-pst-colors{}
+
 #img-2-label{position:absolute;
-top:1235px;
-left:15px;}
+  top:1235px;
+  left:15px;}
 
 #para-1{position:relative;
-left:15px;}
+  left:15px;}
 
 .paragraphs{margin-left:15px;
   margin-right:15px;
-  text-align:center;}
+  text-align:center;
+  text-align:justify;}
     
 .headings{text-align:center;}
 
